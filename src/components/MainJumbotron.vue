@@ -27,6 +27,8 @@ export default {
     position: relative;
 }
 .text{
+    color: white;
+    font-size: 1.5rem;
     position: absolute;
     top: 10px;
     left: 10px;

@@ -28,7 +28,11 @@ export default {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
-  color: #2c3e50;
   margin-top: 60px;
+}
+h1{
+  background: -webkit-linear-gradient(rgb(222, 91, 91), rgb(109, 26, 30));
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 </style>
